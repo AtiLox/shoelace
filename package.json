@@ -53,7 +53,7 @@
   },
   "dependencies": {
     "@floating-ui/dom": "^0.5.2",
-    "@lit-labs/react": "^1.0.4",
+    "@lit-labs/react": "^1.2.1",
     "@shoelace-style/animations": "^1.1.0",
     "@shoelace-style/localize": "^3.0.0",
     "color": "4.2",
